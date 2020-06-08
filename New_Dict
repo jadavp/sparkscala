@@ -1,0 +1,46 @@
+<section class="nmtitle-section" id="section-more-details" data-uia="section-more-details">
+	<div class="more-details-container">
+		<div class="more-details-cell cell-genres" data-uia="more-details-cell-genres">
+			<div class="more-details-label">Genres</div>
+			<div class="more-details-item-container">
+				<span class="more-details-item item-genres" data-uia="more-details-item-genres">
+					<a class="more-details-item item-genres" href="https://www.netflix.com/in/browse/genre/2243108">Documentaries</a>,</span>
+				<span class="more-details-item item-genres" data-uia="more-details-item-genres">Music &amp; Concert Documentaries<!-- -->,</span>
+				<span class="more-details-item item-genres" data-uia="more-details-item-genres">Biographical Documentaries<!-- -->,</span>
+				<span class="more-details-item item-genres" data-uia="more-details-item-genres">Spanish Movies<!-- -->,</span>
+				<span class="more-details-item item-genres" data-uia="more-details-item-genres">
+					<a class="more-details-item item-genres" href="https://www.netflix.com/in/browse/genre/52852">Music &amp; Musicals</a></span>
+				</div>
+			</div>
+		<div class="more-details-cell cell-mood-tag" data-uia="more-details-cell-mood-tag">
+			<div class="more-details-label">This movie is...</div>
+			<div class="more-details-item-container">
+				<span class="more-details-item item-mood-tag" data-uia="more-details-item-mood-tag">Sentimental<!-- -->,</span>
+				<span class="more-details-item item-mood-tag" data-uia="more-details-item-mood-tag">Intimate<!-- -->,</span>
+				<span class="more-details-item item-mood-tag" data-uia="more-details-item-mood-tag">Inspiring</span>
+				</div>
+			</div>
+		<div class="more-details-cell cell-audio" data-uia="more-details-cell-audio">
+			<div class="more-details-label">Audio</div>
+			<div class="more-details-item-container">
+				<span class="more-details-item item-audio" data-uia="more-details-item-audio">European Spanish [Original]<!-- -->,</span>
+				<span class="more-details-item item-audio" data-uia="more-details-item-audio">European Spanish [Original]</span>
+				</div>
+			</div>
+		<div class="more-details-cell cell-subtitle" data-uia="more-details-cell-subtitle">
+			<div class="more-details-label">Subtitles</div>
+			<div class="more-details-item-container">
+				<span class="more-details-item item-subtitle" data-uia="more-details-item-subtitle">English<!-- -->,</span>
+				<span class="more-details-item item-subtitle" data-uia="more-details-item-subtitle">European Spanish</span>
+				</div>
+			</div>
+		</div>
+	<div class="more-details-container-cast">
+		<div class="more-details-cell cell-cast" data-uia="more-details-cell-cast">
+			<div class="more-details-label">Cast</div>
+			<div class="more-details-item-container">
+				<span class="more-details-item item-cast" data-uia="more-details-item-cast">Alejandro Sanz</span>
+				</div>
+			</div>
+		</div>
+</section>
